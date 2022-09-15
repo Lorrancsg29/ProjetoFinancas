@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinancas", "ProjetoFinancas\ProjetoFinancas.csproj", "{FD660458-EB59-4E3B-A256-385047372D7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoFinancas", "ProjetoFinancas\ProjetoFinancas.csproj", "{FD660458-EB59-4E3B-A256-385047372D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinancas.testes", "ExemplosFinancas.testes\ProjetoFinancas.testes.csproj", "{7AFF1737-70A9-4FB0-8EC3-CD50CED0505F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26D2FB86-043C-4E54-B21A-8BB8055A13F5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{FD660458-EB59-4E3B-A256-385047372D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD660458-EB59-4E3B-A256-385047372D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD660458-EB59-4E3B-A256-385047372D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFF1737-70A9-4FB0-8EC3-CD50CED0505F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFF1737-70A9-4FB0-8EC3-CD50CED0505F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFF1737-70A9-4FB0-8EC3-CD50CED0505F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFF1737-70A9-4FB0-8EC3-CD50CED0505F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

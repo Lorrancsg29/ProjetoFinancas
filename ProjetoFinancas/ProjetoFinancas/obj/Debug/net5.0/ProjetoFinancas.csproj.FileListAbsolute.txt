@@ -1,0 +1,12 @@
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\bin\Debug\net5.0\ProjetoFinancas.deps.json
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\bin\Debug\net5.0\ProjetoFinancas.dll
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\bin\Debug\net5.0\ref\ProjetoFinancas.dll
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\bin\Debug\net5.0\ProjetoFinancas.pdb
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.csproj.AssemblyReference.cache
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.AssemblyInfoInputs.cache
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.AssemblyInfo.cs
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.csproj.CoreCompileInputs.cache
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.dll
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ref\ProjetoFinancas.dll
+C:\Users\lorran.gomes\source\repos\ProjetoFinancas\ProjetoFinancas\ProjetoFinancas\obj\Debug\net5.0\ProjetoFinancas.pdb
